@@ -7,4 +7,8 @@ Proceso programa4
 		vector[i] <- Aleatorio(1,10);
 	FinPara
 	
+	Para i <- 0 hasta 9 Hacer
+		Escribir Sin Saltar " ", vector[i];
+	FinPara
+	
 FinProceso
